@@ -30,3 +30,4 @@ Todos los códigos necesarios para la ejecución del proyecto se encuentran disp
 
 [Descargables del Proyecto - GitHub](https://github.com/Kinartb/CC0C2-PC2/releases/tag/Descargables)
 
+## Resultados
